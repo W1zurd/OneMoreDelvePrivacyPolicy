@@ -15,11 +15,11 @@ Additionally:
 - No analytics, tracking, or advertising services are used within the game.
 
 2. Use of Data
-We do not access or use any personal data. Any data collected via Epic Online Services is used solely for:
+We do not access or use any personal data. Any data used via Epic Online Services is used solely for:
 - Connecting players in multiplayer sessions.
 - Facilitating voice chat between connected players.
-- Hosting or joining user-hosted game servers.
-- We do not use this data for analytics, marketing, or third-party distribution.
+- Hosting or joining user hosted game servers.
+We do not store this data or use this data for analytics, marketing, or third-party distribution.
 
 3. Data Deletion Requests
 Because One More Delve does not collect or store personal data directly, there is no personal data to delete.
@@ -31,7 +31,7 @@ https://www.epicgames.com/site/en-US/privacypolicy
 4. Data Protection
 Although One More Delve does not collect or process user data, we are committed to protecting user privacy by:
 - Not collecting any personal information.
-- Not storing or sharing user data anywhere.
+- Not storing any user data.
 - Relying on Epic Online Services, which implements its own security and privacy practices.
 
 We regularly review our app for security and privacy compliance.
